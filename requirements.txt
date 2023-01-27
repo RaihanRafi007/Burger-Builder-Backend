@@ -18,3 +18,4 @@ mypy-extensions==0.4.3
 pathspec==0.9.0
 toml==0.10.2
 regex==2022.1.18
+gunicorn==20.1.0
